@@ -25,7 +25,7 @@ SECRET_KEY = '*3o8*$t5^lmpxrbx_y!eusygbku&uc4ue6659lo-)#-f!2+o4d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['timeapp1.herokuapp.com/', 'localhost']
+ALLOWED_HOSTS = ['timeapp1.herokuapp.com', 'localhost']
 
 
 # Application definition
