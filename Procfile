@@ -1,0 +1,1 @@
+web: gunicorn data.swgi --log-file -
